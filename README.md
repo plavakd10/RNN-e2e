@@ -13,3 +13,7 @@ Embedding layer + RNN in rnn.ipynb
 
 Helper functions in prediction.ipynb
 
+## Streamlit
+
+main.py - Streamlit deployment
+
